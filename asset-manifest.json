@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c54f4c4.css",
+    "main.js": "/static/js/main.d60992b1.js",
+    "static/media/breaking-news (3).jpg": "/static/media/breaking-news (3).ea623d4163f3436afb77.jpg",
+    "static/media/breaking-news (6).jpg": "/static/media/breaking-news (6).e0cafe4a950f9fac403d.jpg",
+    "static/media/breaking-news (2).jpg": "/static/media/breaking-news (2).bb865870df61e48ed23c.jpg",
+    "static/media/gradient-ui-ux-background_23-2149052117.webp": "/static/media/gradient-ui-ux-background_23-2149052117.227f933f8e0de09d8604.webp",
+    "static/media/finance-website-design-jpg": "/static/media/finance-website-design-4fecb5d8cb875fcf3fa999c7ae4486342ce0f0f448b722b9f021fc5ba2e452eb.e9df3953fae47cf77b1a.jpg",
+    "static/media/istockphoto-1364358321-170667a.jpg": "/static/media/istockphoto-1364358321-170667a.69d886d212cfc1f2b2a7.jpg",
+    "static/media/photo-1474631245212-32dc3c8310c6.jpg": "/static/media/photo-1474631245212-32dc3c8310c6.9ff7c929f1de97c709d3.jpg",
+    "static/media/Ecommerce-website-development.jpg": "/static/media/Ecommerce-website-development.1d51ca894c2a1d442dd9.jpg",
+    "index.html": "/index.html",
+    "main.0c54f4c4.css.map": "/static/css/main.0c54f4c4.css.map",
+    "main.d60992b1.js.map": "/static/js/main.d60992b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c54f4c4.css",
+    "static/js/main.d60992b1.js"
+  ]
+}
